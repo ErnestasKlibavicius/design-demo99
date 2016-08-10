@@ -1,0 +1,156 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Calibri, sans-serif;
+}
+
+#logo {
+    font-size: 6em;
+}
+
+a {
+    text-decoration: none !important;
+    color: #F9690E;
+    font-weight: bold;
+}
+
+.navbar-element {
+    padding-top: 35px;
+    text-align: center;
+}
+
+.nav-icons {
+    padding-top: 30px;
+    padding-left: 2px;
+}
+
+.mail {
+    margin-right: 6px;
+}
+
+.user {
+    margin-left: 6px;
+}
+
+.slogan {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.slogan-button {
+    height: 35px;
+    background-color: #F9690E;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 3px;
+}
+
+.slogan-button-text {
+    font-size: 18px;
+}
+
+.slogan-button-text, .all-category-button-text {
+    color: #FFFFFF;
+}
+
+.categories-text {
+    font-weight: 500;
+    white-space: nowrap;
+    color: #000000;
+}
+
+.categories-wrap {
+    margin-top: 45px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.konkursu-containeris, .konkurso-textas {
+    text-align: center;
+    color: #000000;
+}
+
+.konkursu-containeris {
+    padding: 50px 0;
+}
+
+#container-2, #container-4, #container-6 {
+    background-color: #EEEEEE;
+}
+
+hr {
+    border: none;
+    margin-top: 10px;
+    height: 2px;
+    color: #F9690E;
+    background-color: #F9690E;
+    width: 15%;
+}
+
+.all-category-button {
+    height: 35px;
+    margin-top: 45px;
+    color: #ffffff !important;
+    background-color: #F9690E;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 3px;
+}
+
+.all-category-button-text {
+    font-size: 14px;
+}
+
+.how-it-works-button {
+    margin-top: 45px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.play-button {
+    color: #FFFFFF;
+}
+
+.play-video-container {
+    background-color: #EEEEEE;
+    text-align: center;
+    padding: 130px 0;
+}
+
+.design-ex-container {
+    text-align: left;
+    padding: 40px 15px;
+    background-color: #EEEEEE;
+}
+
+.design-ex-text {
+    font-weight: bold;
+}
+
+.example {
+    padding: 50px 0;
+    background: #BDC3C7;
+}
+
+.example-warp {
+    margin-top: 65px;
+    text-align: center;
+}
+
+.arrow-back {
+    background-color: #BDC3C7;
+    margin-right: 2px;
+}
+
+.arrow-forward {
+    background-color: #F9690E;
+    margin-left: 2px;
+}
+.arrow-forward a {
+    color: #FFFFFF !important;
+}
+
+.arrow-container {
+    margin-top: 10px;
+    text-align: center;
+}
