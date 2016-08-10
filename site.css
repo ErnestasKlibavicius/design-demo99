@@ -125,6 +125,7 @@ hr {
 
 .design-ex-text {
     font-weight: bold;
+    margin: 0px;
 }
 
 .example {
@@ -133,7 +134,7 @@ hr {
 }
 
 .example-warp {
-    margin-top: 65px;
+    margin-top: 35px;
     text-align: center;
 }
 
@@ -151,6 +152,6 @@ hr {
 }
 
 .arrow-container {
-    margin-top: 10px;
+
     text-align: center;
 }
